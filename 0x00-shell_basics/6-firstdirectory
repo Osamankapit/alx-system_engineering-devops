@@ -1,2 +1,2 @@
 #!/bin/bash
-mktmp
+mktmp -d
