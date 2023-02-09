@@ -1,2 +1,2 @@
 #!/bin/bash
-mktemp/first_directory
+mktemp -d -t my-script
